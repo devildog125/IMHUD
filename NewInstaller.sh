@@ -27,5 +27,6 @@ sudo systemctl stop serial-getty@ttyS0.service
 sudo systemctl disable serial-getty@ttyS0.service
 
 sudo cp action.py ~/voice-recognizer-raspi/src/action.py
+sudo cp voice-recognizer-shell.sh ~/home/pi/bin/voice-recognizer-shell.sh
 cd 
 curl https://processing.org/download/install-arm.sh | sudo sh
