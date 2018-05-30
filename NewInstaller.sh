@@ -22,11 +22,13 @@ echo -e "Assistant.json copied!\\n"
 sudo cp cloud_speech.json /home/pi/
 echo -e "Cloud Speech copied!\\n"
 sudo cp AIY-wallpaper.png /usr/share/pixel-wallpaper/AIY-wallpaper.png
+echo -e "New wallpaper added!\\n"
 
 sudo systemctl stop serial-getty@ttyS0.service
 sudo systemctl disable serial-getty@ttyS0.service
 
 sudo cp action.py ~/voice-recognizer-raspi/src/action.py
+echo -e "Copied actions!\\n"
 sudo cp voice-recognizer-shell.sh ~/home/pi/bin/voice-recognizer-shell.sh
 cd 
 curl https://processing.org/download/install-arm.sh | sudo sh
