@@ -119,10 +119,6 @@ def main():
     parser = configargparse.ArgParser(
         default_config_files=CONFIG_FILES,
         description="Act on voice commands using Google's speech recognition")
-    parser.add_argument('-I', '--input-device', default='default',
-                        help='Name of the audio input device')
-    parser.add_argument('-O', '--output-device', default='default',
-                        help='Name of the audio output device')
     parser.add_argument('-T', '--trigger', default='gpio',
                         choices=['clap', 'gpio', 'ok-google'], help='Trigger to use')
     parser.add_argument('--cloud-speech', action='store_true',
@@ -250,8 +246,8 @@ def do_recognition(args, recorder, recognizer, player, status_ui):
 
     if args.trigger == 'gpio':
         import triggers.gpio
-        triggerer = triggers.gpio.GpioTrigger(channel=17)
-        msg = 'Press the button on GPIO 17'
+        triggerer = triggers.gpio.GpioTrigger(channel=23)
+        msg = 'Press the button on GPIO 23'
     elif args.trigger == 'clap':
         import triggers.clap
         triggerer = triggers.clap.ClapTrigger(recorder)
