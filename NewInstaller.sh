@@ -25,8 +25,7 @@ sudo cp AIY-wallpaper.png /usr/share/pixel-wallpaper/AIY-wallpaper.png
 
 sudo systemctl stop serial-getty@ttyS0.service
 sudo systemctl disable serial-getty@ttyS0.service
-
-
+1
 sudo cp action.py ~/voice-recognizer-raspi/src/action.py
 cd 
 curl https://processing.org/download/install-arm.sh | sudo sh
