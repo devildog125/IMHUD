@@ -57,7 +57,6 @@ dtparam=i2s=on
 dtoverlay=i2s-mmap
 dtoverlay=googlevoicehat-soundcard
 
-start_x=1
 gpu_mem=128
 
 enable_uart=1
