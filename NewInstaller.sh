@@ -1,6 +1,6 @@
 #!/bin/bash
 # Will install everything needed for Iron Man HUD INSTALL VARIABLES
-
+sudo apt-get update
 echo -e "\\n"
 echo -e "Please disable login over serial in raspi-config and enable hardware serial\\n"
 
