@@ -12,7 +12,7 @@ sudo pip install PySocks
 clear 
 
 cd ~
-cd AIY_HUD
+cd IMHUD
 sudo cp config.txt /boot/config.txt
 echo -e "Go to Advanced Options/Serial and set No to 
 		“Would you like a login shell to be accessible over serial?” and 
