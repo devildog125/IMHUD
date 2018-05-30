@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "jarvisvoiceintegrationv1",
+  "private_key_id": "a5f595eb03277bbc85963532c54962bd0f7bf335",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDHVdYaZdWNl+8Y\nKzzJGIe+4/yNjSPAMs98utGC1qjV99H7RJZ9QYkrftjFoysJH5xM2w14pVwp2DYV\n89Zx4SgF+I/w3UvAg1Q5J+EsrTRV6yXDv24kWEbuFI9S8rk/CymJCCHJLDKYexTk\noQEaeRREi3GrdZx3FMeaZy89vfAs3zRANNEzpaDe50D9JbocF3fI7x3KYDqj0zMP\n0SAgWgGay7KeK5jNZXH77whiwWOA/6a2DQXY35V7Ul9n9rqB1GncjPM5ypWuZHl+\nuhZIHipeM85vl1sBG/0T3+vrj2uWPK5ULfo9ViLZcQgNH7iqJFXzkJZDnprqj6VJ\nwVl2jdgJAgMBAAECggEACRgjcoTe31zlLacbWNljqBPiu9qKnQQ0by5ezKdagJiT\n3fDdJM3OokthPHMbTYlBqkf8L1rr/4S7wvii+gMZvlv+xTBzek8Dkq/9F/q2/oyB\n5pJfRg04/ze06kXkqbmqpXPXhsQbctV6uIuX70tC33W1M+tjvhMWoDbA8wItaP6Z\nNvYBgawDzm3yI5kOef/fuDerM6H6RJa3NHrIytZLgALsTyJvde07l+uoK6FpTXd/\nMzBH3antpiYph2LrLqoX6/E6eO6kyB4ePBCwK3I5cHOIPCB0wxnG+bPvm4m6FI2u\npkJkSjfTzu4u6I+1wpoEoY+RUfGUyQhEFlg1Rl+NYQKBgQD8/PYhdzR3upat6ztM\nEQBHa0ZUxa+StM2pBYF363KC73Ec8vNiOpXAssH+PvrzjdPjdZ6cwnqNh06k64mK\nM7ABMwhSNnM6Nn1QId+3fGr9eHnZ8meP4aW8Vu/LdQAHce+RS9yCzkl2h6ufkLF3\n2onLnIxhiW85M9pmuhj251noRQKBgQDJtVsSZX6P2KYlANxhy4gO93ug1lrf4T0J\nrluI5xHC94Sufkqn5tRbZapgrPjfWax550LTbkHQowkQfGNhJMPH3f1Q3DQbXEG3\nTYirf6MA1NyoUUpuLcy4phXbq7NiO/PLsx/Cud7HezYYoCqWO1S9v0h0TFg+uo5y\n6FVeDrQ29QKBgQDYeWPqsuO0Z3azjwsIRavlcMeXlihr8kXgkRN9l3w+ycASM1lK\n/jJR1yPj9+QoL33VrjlwjYDsRZFn0Ru5pAzAmfhO0MS8VQ/ZV4LksJOkHEi305IG\nLeDxTbqWb6D8veNugmlHjFiUEfcq7FbO5bLvBR+h/kWrvtDtAeSGsOPfuQKBgQCy\nh5giAj8w5lq3qbllvZWhWZ7Mzq0ENwGlTfOqioqH/DgtkY5WadJPSv6wLqjgVyh3\nhR76sD4EgikFtHLpinbWsj8BkMV16gQoT7HFyWTm2YCsYbb1Kghm7mmuUpylN9ci\n1looKgdqnD1XMnw/GCh7AZEJjoEUlF58ifL1GyKa+QKBgQDAn6xFWjwiPwIUcils\n2BwqLgNybSfQfcwTN52wryqSPhnwu8YdDn2Wsea19y7WRIDT9XzEaVS3qZ6wK3vJ\ncP+M5MZuzsk7E3cb97njVgp/QzMA76eDmT26szySzxkOxyIOqarKg3sVgiJm6XIK\n2S/iSl3UbqS0i+8bNCf+7IFT5Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-speech@jarvisvoiceintegrationv1.iam.gserviceaccount.com",
+  "client_id": "109847786787252215984",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-speech%40jarvisvoiceintegrationv1.iam.gserviceaccount.com"
+}
